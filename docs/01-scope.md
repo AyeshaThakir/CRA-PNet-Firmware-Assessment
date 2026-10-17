@@ -6,6 +6,8 @@ This document defines what is assessed, from whose perspective, and on what evid
 
 It is not a certification, a conformity assessment, legal advice, or work performed for or with RT-Labs. It makes no statement about whether RT-Labs, P-Net, or any real product complies or fails to comply with the CRA.
 
+The product is entirely hypothetical, and this assessment is independent. It carries no authority and no endorsement or validation from RT-Labs, the European Commission, or any certification body.
+
 ## 2. Evidence convention
 
 Every substantive statement in this repository carries one of three tags, or sits in a section that is plainly one of them.
