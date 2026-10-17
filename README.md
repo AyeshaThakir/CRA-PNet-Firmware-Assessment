@@ -65,6 +65,10 @@ This is a desk assessment of a hypothetical product, built from public sources o
 - [RT-Labs security advisories](https://rt-labs.com/cyber-security/) and [disclosure policy](https://rt-labs.com/about-rt-labs/our-policies/)
 - [CVE-2025-32405, NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-32405)
 
+## How this was made
+
+I used AI assistance (Claude) while building this project, to plan the structure, draft documents and suggest wording. The facts come from the public sources cited in each document: the regulation text, Commission guidance, NVD, and RT-Labs' public publications. I review and edit what is drafted, and I am responsible for the content. Anything not yet checked against the official text is marked with a TODO or tagged [A] (assumption). This project is a learning exercise: I am building my understanding of CRA and vulnerability handling as I go, and I have no professional experience handling CVEs.
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
