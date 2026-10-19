@@ -24,7 +24,7 @@ Each statement is one of:
 |---|-------------|------|--------|
 | 1 | Scope and product description | [docs/01-scope.md](docs/01-scope.md) | Draft |
 | 2 | Annex I requirements mapping | [docs/02-annex-i-mapping.md](docs/02-annex-i-mapping.md) | Draft |
-| 3 | CVE-2025-32405 vulnerability-handling case study | docs/03-cve-2025-32405.md | Planned |
+| 3 | CVE-2025-32405 vulnerability-handling case study | [docs/03-cve-2025-32405.md](docs/03-cve-2025-32405.md) | Draft |
 | 4 | Hypothetical component inventory / SBOM | docs/04-sbom.md | Planned |
 | 5 | Threat model | docs/05-threat-model.md | Planned |
 | 6 | Risk register | docs/06-risk-register.md | Planned |
