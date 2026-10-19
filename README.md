@@ -2,6 +2,8 @@
 
 > **Independent educational project. Not certification, not legal advice, not a commercial compliance assessment, and not work performed for or with RT-Labs.** Nothing here states that RT-Labs or the P-Net stack is or is not compliant with the EU Cyber Resilience Act.
 
+> **Status: work in progress.** Documents are added and updated regularly. The status table below shows what is finished and what is still planned.
+
 ## What this is
 
 A structured assessment of how Regulation (EU) 2024/2847 (the Cyber Resilience Act) applies to a **hypothetical** commercially supplied PROFINET IO-Device firmware on embedded Linux that integrates the open [RT-Labs P-Net](https://github.com/rtlabs-com/p-net) stack. The focus is the part manufacturers find hardest in practice: turning Annex I into concrete product requirements, handling vulnerabilities in a third-party component, and being honest about what is evidenced versus assumed.
@@ -21,12 +23,12 @@ Each statement is one of:
 | # | Deliverable | File | Status |
 |---|-------------|------|--------|
 | 1 | Scope and product description | [docs/01-scope.md](docs/01-scope.md) | Draft |
-| 2 | Annex I requirements mapping | docs/02-annex-i-mapping.md | Planned |
+| 2 | Annex I requirements mapping | [docs/02-annex-i-mapping.md](docs/02-annex-i-mapping.md) | Draft |
 | 3 | CVE-2025-32405 vulnerability-handling case study | docs/03-cve-2025-32405.md | Planned |
 | 4 | Hypothetical component inventory / SBOM | docs/04-sbom.md | Planned |
 | 5 | Threat model | docs/05-threat-model.md | Planned |
 | 6 | Risk register | docs/06-risk-register.md | Planned |
-| 7 | Limitations and assumptions | docs/07-limitations.md | Planned |
+| 7 | Limitations and assumptions | [docs/07-limitations.md](docs/07-limitations.md) | Draft |
 
 Statuses are updated only when the file contains finished content.
 
