@@ -30,7 +30,7 @@ Each statement is one of:
 | 6 | Risk register | [docs/06-risk-register.md](docs/06-risk-register.md) | Draft |
 | 7 | Limitations and assumptions | [docs/07-limitations.md](docs/07-limitations.md) | Draft |
 
-Statuses are updated only when the file contains finished content.
+Draft means the content is written but not yet checked against the Regulation text. Statuses change only when that check is done.
 
 ## Approach
 
