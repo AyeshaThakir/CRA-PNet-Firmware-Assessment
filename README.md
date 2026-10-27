@@ -56,7 +56,7 @@ Draft means the content is written but not yet checked against the Regulation te
 
 ## Limitations
 
-This is a desk assessment of a hypothetical product, built from public sources only. Product classification, intended use, and the manufacturer/component roles are stated assumptions. No P-Net code is included or redistributed. See [docs/01-scope.md](docs/01-scope.md) for scope and `docs/07-limitations.md` (planned) for the full list.
+This is a desk assessment of a hypothetical product, built from public sources only. Product classification, intended use, and the manufacturer/component roles are stated assumptions. No P-Net code is included or redistributed. See [docs/01-scope.md](docs/01-scope.md) for scope and [docs/07-limitations.md](docs/07-limitations.md) for the full list.
 
 ## Sources
 
